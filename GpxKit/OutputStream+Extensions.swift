@@ -1,6 +1,7 @@
 //
 //  Copyright © 2017 Beeline. All rights reserved.
 //
+import Foundation
 
 extension OutputStream {
 
