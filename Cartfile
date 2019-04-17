@@ -1,0 +1,2 @@
+github "drmohundro/SWXMLHash" ~> 4.9.0
+github "ReactiveX/RxSwift" ~> 4.0
